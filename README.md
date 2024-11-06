@@ -1,4 +1,4 @@
-#My First C++ Projects: Game Development
+#  My First C++ Projects: Game Development
 Welcome to my repository! Here, you'll find my initial projects created while learning C++. These projects showcase simple, yet fun, command-line games.
 
 ## About the Games
