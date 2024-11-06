@@ -52,10 +52,11 @@ In this implementation, the game is played in the terminal, and each player sele
   
 ### Grid Layout:
 The board is a 3x3 grid, represented by the following coordinates:
-
+```plaintext
 | 00 | 01 | 02 |
 | 10 | 11 | 12 |
 | 20 | 21 | 22 |
+```
 
 ## Code Structure
 
