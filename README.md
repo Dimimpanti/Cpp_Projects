@@ -38,7 +38,7 @@ In this implementation, Player 1 and Player 2 are represented by two different c
 - `player1` and `player2`: Characters ('R' or 'Y') representing each player's color.
 - `col1` and `col2`: Integers to store the column choices for each player.
 
-- ## About the Game
+ ## About the Noughts and Crosses
 
 **Noughts and Crosses** (also known as Tic-Tac-Toe) is a two-player game played on a 3x3 grid. Players take turns marking a cell with their chosen symbol, either "X" or "O". The first player to align three of their symbols in a row, column, or diagonal wins.
 
